@@ -31,20 +31,28 @@ Aplicação fullstack de gerenciamento de itens de cardápio, permitindo cadastr
 - ✅ Editar item existente
 - ✅ Deletar item
 
+## ⚙️ Pré-requisitos
+
+- Node.js instalado
+- Java 17+ instalado
+- Banco de dados configurado em `Back-end/src/main/resources/application.properties`
+
 ## 🖥️ Como rodar
 
 **Backend**
 ```bash
-cd backend
-./mvnw spring-boot:run
+cd Back-end
+.\mvnw.cmd spring-boot:run
 ```
 
 **Frontend**
 ```bash
-cd frontend
+cd Front-end
 npm install
 npm run dev
 ```
+
+Acesse: `http://localhost:5173`
 
 ## 📸 Screenshots
 
