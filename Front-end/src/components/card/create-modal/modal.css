@@ -105,3 +105,24 @@
   color: white;
   transform: scale(1.1);
 }
+
+@media (max-width: 480px) {
+  .modal-body {
+    padding: 20px;
+    border-radius: 20px;
+  }
+
+  .modal-body h2 {
+    font-size: 18px;
+  }
+
+  .modal-body input {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  .modal-body .btn-secondary {
+    font-size: 14px;
+    padding: 12px;
+  }
+}
