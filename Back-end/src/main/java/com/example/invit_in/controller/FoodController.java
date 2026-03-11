@@ -26,4 +26,16 @@ public class FoodController {
     public Food addFood(@RequestBody Food food) {
         return repository.save(food);
     }
+
+@PutMapping("/{id}")
+public Food updateFood(@PathVariable Long id, @RequestBody Food food) {
+    food.setId(id);
+    return repository.save(food);
+}
+
+@DeleteMapping("/{id}")
+public void deleteFood(@PathVariable Long id) {
+    repository.deleteById(id);
+}
+
 }
