@@ -46,3 +46,18 @@ npm install
 npm run dev
 ```
 
+## 📸 Screenshots
+
+### Tela principal
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bda24ef2-b288-4cd4-a676-49432262a986" />
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/26eda349-09a9-49bc-bd8f-97a96c2dfb0c" />
+
+
+### Cadastrar item
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/1b668803-0857-41fe-ac92-d9a70eeadb70" />
+
+
+### Editar item
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/282d5561-9814-4e96-8ef1-0866aaa0681d" />
+
+
