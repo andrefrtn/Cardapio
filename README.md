@@ -1,4 +1,4 @@
-# 🍽️ Cardápio
+# 🍽️ Cardapiou
 
 Sistema de gerenciamento de cardápio desenvolvido para aprender CRUD com Java e Spring Boot.
 
